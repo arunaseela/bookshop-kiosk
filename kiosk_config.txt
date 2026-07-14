@@ -1,0 +1,10 @@
+[[ GLOBAL ]]
+kiosk_config=https://raw.githubusercontent.com/arunaseela/bookshop-kiosk/main/kiosk_config.txt
+connection=wireless
+dhcp=yes
+browser=chrome
+homepage=https://docs.google.com/spreadsheets/
+whitelist=docs.google.com drive.google.com accounts.google.com polgahawela.pothmadura.top ssl.gstatic.com googleusercontent.com apis.google.com
+private_mode=no
+persistence=full
+browser_preferences=https://raw.githubusercontent.com/arunaseela/bookshop-kiosk/main/policy.json
