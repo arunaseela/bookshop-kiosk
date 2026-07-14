@@ -1,6 +1,6 @@
 [[ GLOBAL ]]
 kiosk_config=https://raw.githubusercontent.com/arunaseela/bookshop-kiosk/main/kiosk_config.txt
-connection=wifi
+connection=wired
 dhcp=yes
 browser=chrome
 homepage=https://docs.google.com/spreadsheets/
